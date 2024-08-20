@@ -1,0 +1,1 @@
+# langchain-recipe-generator
